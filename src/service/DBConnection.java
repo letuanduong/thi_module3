@@ -11,7 +11,7 @@ public class DBConnection {
     private Connection connection;
 
     private DBConnection() {
-        String url = "jdbc:mysql://localhost:3306/quan_ly_sinh_vien";
+        String url = "jdbc:mysql://localhost:3306/quan_ly_san_pham_module3";
         String username = "root";
         String password = "111333";
 
